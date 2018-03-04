@@ -1,0 +1,2 @@
+This is first lab by system software: "Memory allocator".
+Here realised three main functions of allocator: alloc, free and realloc memory.
